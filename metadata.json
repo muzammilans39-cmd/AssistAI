@@ -1,0 +1,6 @@
+{
+  "name": "AssistAI",
+  "description": "Accessible AI-powered voice assistant, call recording analyzer, reminders, alarms, appointments, and daily planner for senior citizens and visually impaired users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

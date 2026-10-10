@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AssistAI</string>
+    <string name="home_greeting_title">AssistAI Companion</string>
+    <string name="home_greeting_subtitle">Voice-First Daily Assistant for Independent Living</string>
+    <string name="btn_read_screen_aloud">Read Screen Aloud</string>
+    <string name="btn_stop_reading">Stop Reading</string>
+    <string name="btn_high_contrast">Contrast</string>
+    <string name="btn_font_size">Text Size</string>
+    <string name="btn_voice_assistant_large">Tap &amp; Speak to AssistAI</string>
+    <string name="btn_voice_listening">Listening… Tap to Finish</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_ai_assistant">AI Assistant</string>
+    <string name="nav_call_analysis">Call Analysis</string>
+    <string name="nav_reminders_alarms">Reminders &amp; Alarms</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_daily_planner">Daily Planner</string>
+    <string name="next_upcoming_label">NEXT UPCOMING</string>
+    <string name="call_consent_disclaimer">Legal Notice: Recording phone calls or conversations may require two-party consent. Always inform participants and follow your local laws before recording.</string>
+    <string name="security_prototype_notice">Prototype Notice: Gemini AI calls use BuildConfig key configuration. Do not share this prototype APK publicly.</string>
+    <string name="empty_reminders_message">No reminders yet. Tap Add Reminder or use your voice to create one.</string>
+    <string name="empty_alarms_message">No alarms set. Tap Add Alarm or use your voice to set one.</string>
+    <string name="empty_appointments_message">No upcoming appointments, meetings, or travel plans.</string>
+    <string name="cd_back_home">Return to Home Screen</string>
+    <string name="cd_microphone_button">Large Microphone Button. Activate Voice Command</string>
+    <string name="cd_read_aloud_button">Read current screen content aloud using Text to Speech</string>
+</resources>
